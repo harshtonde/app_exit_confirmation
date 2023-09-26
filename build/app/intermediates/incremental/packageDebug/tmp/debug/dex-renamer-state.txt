@@ -1,0 +1,4 @@
+#Tue Sep 26 15:34:06 IST 2023
+base.0=/Users/harshtonde/Desktop/Projects/back_button_test/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
